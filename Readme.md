@@ -37,13 +37,6 @@ Breadit is a community-oriented platform designed for sharing and discussing a w
 
 - **Search Functionality**: Find the content, communities, and users you're looking for.
 
-### Notifications
-
-- **Receive Notifications**: Stay updated with messages, mentions, and post/activity notifications.
-
-### Privacy
-
-- **Privacy Settings**: Control the visibility of your profile and content.
 
 ## Technologies Used
 
